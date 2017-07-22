@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Podkovyrin Sergey. I'm a junior web developer. 
+My name is Podkovyrin Sergey, i'm a web developer. 
 
 ## Contacts
 
