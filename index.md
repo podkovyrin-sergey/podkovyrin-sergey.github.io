@@ -2,7 +2,7 @@
 
 My name is Podkovyrin Sergey. I'm a junior web developer. 
 
-## Contacts:
+## Contacts
 
-* **e-mail:** podkovyrin.sergey@gmal.com
-* **vk:** https://vk.com/podkowyrin
+* **e-mail:** [podkovyrin.sergey@gmail.com](mailto:podkovyrin.sergey@gmail.com)
+* **VK:** [vk.com/podkowyrin](https://vk.com/podkowyrin)
