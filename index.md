@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Podkovyrin Sergey, i'm a web developer. 
+My name is Podkovyrin Sergey, i'm glad to see you.
 
 ## Contacts
 
